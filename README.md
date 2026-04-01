@@ -22,11 +22,11 @@ qa-portfolio/
 ```
 
 ## Testing Types
-```
+
 | Type | Status |
 |---|---|
 | ✅ Manual Testing | In progress |
-```
+
 
 ---
 
