@@ -25,7 +25,7 @@ qa-portfolio/
 
 | Type | Status |
 |---|---|
-| ✅ Manual Testing | In progress |
+|  Manual Testing | In progress |
 
 
 ---
