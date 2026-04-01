@@ -12,13 +12,10 @@ qa-portfolio/
 ├── portfolio-website/
 │   ├── test-cases/
 │   └── bug-reports/
-├── profile-card/
-│   ├── test-cases/
-│   └── bug-reports/
-└── shared/
-    └── templates/
-        ├── test-case-template.md
-        └── bug-report-template.md
+└── profile-card/
+    ├── test-cases/
+    └── bug-reports/
+
 ```
 
 ## Testing Types
