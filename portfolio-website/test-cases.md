@@ -4,11 +4,15 @@
 
 ---
 
-**Test ID:** 1
+**Test ID:** TC001
 
 **Test Title:** Verify about link opens the correct link
 
 **Description:** Verify about navigation scrolls down to the correct section without lagging
+
+**Preconditions:**
+- User has access to the website
+- Internet connection is available
 
 **Steps:**
 1. Go to site https://tracynjoroge.vercel.app/   
@@ -17,4 +21,5 @@
 
 **Expected Result:** User should see the About me section of my portfolio
 
-**Test Data:** /
+**Actula Result:** 
+The link scrolls to the About me section of my portfolio
