@@ -40,18 +40,33 @@ The Hero heading 'Tracy Njoroge' is visible at the top of the viewport
 **Preconditions:**
 - User has access to the website
 - Internet connection is available
+- User is currently viewing the Home section
 
 **Steps:**
-1. Go to site https://tracynjoroge.vercel.app/   
+1. Ensure you are on the Home section  
 2. Click "About" in the navigation bar
 3. Observe where the page scrolls to  
 
-**Expected Result:** Page scrolls to the About section
-The About heading is visible at the top of the viewport
+**Expected Result:** Page scrolls to the About section.
+The About heading is visible at the top of the viewport.
 
 **Post Condition:** User is now viewing the About section
 
 **Test Type:** Positive 
 
 **Status:** 
+
+---
+
+| Field | Content |
+|---|---|
+| **Test Case ID** | TC002 |
+| **Precondition** | Website is open. User is on the Home section |
+| **Test Title** | Verify About navigation link scrolls to the About section |
+| **Description** | Verify clicking About scrolls to the correct section |
+| **Steps** | 1. Ensure you are on the Home section 2. Click "About" 3. Observe where page scrolls |
+| **Expected Result** | Page scrolls smoothly to the About section. About heading is visible at the top of the viewport |
+| **Post Condition** | User is now viewing the About section |
+| **Test Type** | Positive |
+| **Status** | |
 
