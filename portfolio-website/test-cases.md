@@ -17,34 +17,21 @@
 
 ---
 
+## **Test ID: TC002** 
 
-**Test ID:** TC002
-
-**Test Title:** Verify About navigation link scrolls to the About section
-
-**Description:** Verify clicking the About navigation link scrolls to the correct section
-
-**Preconditions:**
-- User has access to the website
-- Internet connection is available
-- User is currently viewing the Home section
-
-**Steps:**
-1. Ensure you are on the Home section  
-2. Click "About" in the navigation bar
-3. Observe where the page scrolls to  
-
-**Expected Result:** Page scrolls to the About section.
-The About heading is visible at the top of the viewport.
-
-**Post Condition:** User is now viewing the About section
-
-**Test Type:** Positive 
-
-**Status:** 
+| Field | Content |
+|---|---|
+| **Test Title** | Verify About navigation link scrolls to the About section |
+| **Description** | Verify clicking the About navigation link scrolls to the correct section |
+| **Precondition** | - User has access to the website <br> - Internet connection is available <br> - User is currently viewing the Home section |
+| **Steps** | 1. Ensure you are on the Home section <br> 2. Click "About" in the navigation bar <br> 3. Observe where the page scrolls to |
+| **Expected Result** | Page scrolls to the About section. <br> The About heading is visible at the top of the viewport. |
+| **Post Condition** | User is now viewing the About section |
+| **Test Type** | Positive |
+| **Status** | |
 
 ---
-## **Test ID: TC002** 
+## **Test ID: TC003** 
 
 | Field | Content |
 |---|---|
