@@ -57,13 +57,13 @@ The About heading is visible at the top of the viewport.
 **Status:** 
 
 ---
+## **TC002** 
 
 | Field | Content |
 |---|---|
-| **Test Case ID** | TC002 |
-| **Precondition** | Website is open. User is on the Home section |
 | **Test Title** | Verify About navigation link scrolls to the About section |
 | **Description** | Verify clicking About scrolls to the correct section |
+| **Precondition** | Website is open. User is on the Home section |
 | **Steps** | 1. Ensure you are on the Home section 2. Click "About" 3. Observe where page scrolls |
 | **Expected Result** | Page scrolls smoothly to the About section. About heading is visible at the top of the viewport |
 | **Post Condition** | User is now viewing the About section |
