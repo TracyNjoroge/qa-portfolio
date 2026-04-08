@@ -2,31 +2,18 @@
 
 ![Portfolio Hero page screenshot](./images/Screenshot%20from%202026-04-03%2017-12-46.png)
 
+## **Test ID: TC001** 
 
-**Test ID:** TC001
-
-**Test Title:** Verify Home navigation link scrolls to the Home section
-
-**Description:** Verify clicking the Home navigation link scrolls to the correct section
-
-**Preconditions:**
-- User has access to the website
-- Internet connection is available
-- The user is in another portfolio section
-
-**Steps:**
-1. Scroll to any section other than Home, for example the Contact section
-2. Click "Home" in the navigation bar
-3. Observe where the page scrolls to  
-
-**Expected Result:** Page scrolls smoothly to the Home/Hero section
-The Hero heading 'Tracy Njoroge' is visible at the top of the viewport
-
-**Post Condition:** User is now viewing the Home section
-
-**Test Type:** Positive 
-
-**Status:** 
+| Field | Content |
+|---|---|
+| **Test Title** | Verify Home navigation link scrolls to the Home section |
+| **Description** | Verify clicking the Home navigation link scrolls to the correct section |
+| **Precondition** | - User has access to the website <br> - Internet connection is available <br> - The user is in another portfolio section |
+| **Steps** | 1. Scroll to any section other than Home, for example the Contact section <br> 2. Click "Home" in the navigation bar <br> 3. Observe where the page scrolls to |
+| **Expected Result** | Page scrolls smoothly to the Home/Hero section <br> The Hero heading 'Tracy Njoroge' is visible at the top of the viewport |
+| **Post Condition** | User is now viewing the Home section |
+| **Test Type** | Positive |
+| **Status** | |
 
 ---
 
