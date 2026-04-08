@@ -35,12 +35,12 @@
 
 | Field | Content |
 |---|---|
-| **Test Title** | Verify About navigation link scrolls to the About section |
-| **Description** | Verify clicking About scrolls to the correct section |
-| **Precondition** | Website is open. User is on the Home section |
-| **Steps** | 1. Ensure you are on the Home section 2. Click "About" 3. Observe where page scrolls |
-| **Expected Result** | Page scrolls smoothly to the About section. About heading is visible at the top of the viewport |
-| **Post Condition** | User is now viewing the About section |
+| **Test Title** | Verify Skills navigation link scrolls to the Skills section |
+| **Description** | Verify clicking Skills navigation link scrolls to the correct section |
+| **Precondition** | - User has access to the website <br> - Internet connection is available <br> - User is currently viewing the Home section |
+| **Steps** | 1. Ensure you are on the Home section <br> 2. Click "Skills" <br> 3. Observe where page scrolls |
+| **Expected Result** | Page scrolls smoothly to the Skills section. <br> Skills heading is visible at the top of the viewport |
+| **Post Condition** | User is now viewing the Skills section |
 | **Test Type** | Positive |
 | **Status** | |
 
