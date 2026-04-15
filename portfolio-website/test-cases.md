@@ -44,3 +44,17 @@
 | **Test Type** | Positive |
 | **Status** | |
 
+---
+## **Test ID: TC004** 
+
+| Field | Content |
+|---|---|
+| **Test Title** | Verify projects navigation link scrolls to the Projects section |
+| **Description** | Verify clicking Projects navigation link scrolls to the correct section |
+| **Precondition** | - User has access to the website <br> - Internet connection is available <br> - User is currently viewing the Home section or any other section apart from the projects section |
+| **Steps** | 1. Ensure you are on the Home section or any other section apart from the projects section <br> 2. Click "Projects" <br> 3. Observe where page scrolls |
+| **Expected Result** | Page scrolls smoothly to the Projects section. <br> "Some things I've built" heading is visible at the top of the viewport |
+| **Post Condition** | User is now viewing the Projects section |
+| **Test Type** | Positive |
+| **Status** | |
+
