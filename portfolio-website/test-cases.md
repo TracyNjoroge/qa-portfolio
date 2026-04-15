@@ -4,7 +4,7 @@
 
 ## **Test ID: TC001** 
 
-| Field | Content |
+| Field                          | Content                                  |
 |-------------------------------------|-------------------------------------|
 | **Test Title** | Verify Home navigation link scrolls to the Home section |
 | **Description** | Verify clicking the Home navigation link scrolls to the correct section |
