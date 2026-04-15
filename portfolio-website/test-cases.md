@@ -5,7 +5,7 @@
 ## **Test ID: TC001** 
 
 | Field | Content |
-|---|---|
+|-------------------------------------|-------------------------------------|
 | **Test Title** | Verify Home navigation link scrolls to the Home section |
 | **Description** | Verify clicking the Home navigation link scrolls to the correct section |
 | **Precondition** | - User has access to the website <br> - Internet connection is available <br> - The user is in another portfolio section |
