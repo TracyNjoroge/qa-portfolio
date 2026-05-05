@@ -6,15 +6,15 @@
 
 | Test ID | Title | Type | Status |
 |---------|-------|------|--------|
-| TC001 | Verify Home navigation | Positive |  |
-| TC002 | Verify About navigation | Positive |  |
-| TC003 | Verify Skills navigation | Positive |  |
-| TC004 | Verify Projects navigation | Positive |  |
-| TC005 | Verify Contact navigation | Positive |  |
+| TCN001 | Verify Home navigation | Positive |  |
+| TCN002 | Verify About navigation | Positive |  |
+| TCN003 | Verify Skills navigation | Positive |  |
+| TCN004 | Verify Projects navigation | Positive |  |
+| TCN005 | Verify Contact navigation | Positive |  |
 
 ---
 
-**Test ID:** TC001
+**Test ID:** TCN001
 
 **Test Title:** Verify Home navigation link scrolls to the Home section
 
@@ -42,7 +42,7 @@
 
 ---
 
-**Test ID:** TC002 
+**Test ID:** TCN002 
 
 **Test Title:** Verify About navigation link scrolls to the About section 
 
@@ -70,7 +70,7 @@
 
 ---
 
-**Test ID:** TC003 
+**Test ID:** TCN003 
 
 **Test Title:** Verify Skills navigation link scrolls to the Skills section
 
@@ -98,7 +98,7 @@
 
 ---
 
-**Test ID:** TC004 
+**Test ID:** TCN004 
 
 **Test Title:** Verify Projects navigation link scrolls to the Projects section
 
@@ -126,7 +126,7 @@
 
 ---
 
-**Test ID:** TC005
+**Test ID:** TCN005
 
 **Test Title:** Verify Contact navigation link scrolls to the Contact section
 
