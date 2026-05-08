@@ -1,6 +1,6 @@
 ## Test Cases for Navigation Functionality on https://tracynjoroge.vercel.app/
 
-![Portfolio Hero page screenshot](./images/Screenshot%20from%202026-04-15%2010-03-04.png)
+![Portfolio Hero page screenshot](./images/navigation.png)
 
 ## Summary
 
