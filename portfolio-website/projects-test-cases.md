@@ -9,7 +9,7 @@
 | Test ID | Title | Type | Status |
 |---------|-------|------|--------|
 | TCP001 | Verify static elements| Positive |  |
-| TCP002 | | Positive |  |
+| TCP002 | Verify Project names| Positive |  |
 
 
 ---
